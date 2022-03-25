@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "sharp": "^0.30.3"
+  },
+  "name": "node_js_hw_4",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node app.js",
+    "install": "cp .env.local .env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
